@@ -1,6 +1,12 @@
-# cryptopia-hack
+# Cryptopia Hack
 
-[Some overdue transparency into the Cryptopia exchange hack](https://elementus.io/blog/cryptopia-hack-transparency/)
+Data from our [investigation into the Cryptopia exchange hack](https://elementus.io/blog/cryptopia-hack-transparency/)
+
+###Transactions from Cryptopia to the hackers' wallets
+
+The full list of unauthorized transactions from Cryptopia to the hackers' wallets are given in [cryptopia-losses.csv](https://github.com/elementus-io/cryptopia-hack/blob/master/cryptopia-losses.csv)
+
+###Market value of stolen coins
 
 This table shows the full breakout of the stolen funds in the Cryptopia exchange hack. Market prices are as of 19-Jan-2019.
 
