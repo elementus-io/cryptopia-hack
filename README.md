@@ -4,7 +4,19 @@ Data from our [investigation into the Cryptopia exchange hack](https://elementus
 
 ### Transactions from Cryptopia to the hackers' wallets
 
-The full list of unauthorized transactions from Cryptopia to the hackers' wallets are given in [cryptopia-losses.csv](https://github.com/elementus-io/cryptopia-hack/blob/master/cryptopia-losses.csv)
+The full list of unauthorized transactions from Cryptopia to the hackers' wallets are given in [cryptopia-losses.csv](https://github.com/elementus-io/cryptopia-hack/blob/master/cryptopia-losses.csv).
+
+The funds were initially withdrawn into these three wallets:
+
+* [0x9007a0421145b06a0345d55a8c0f0327f62a2224](https://etherscan.io/address/0x9007a0421145b06a0345d55a8c0f0327f62a2224) (tokens)
+* [0xc8b759860149542a98a3eb57c14aadf59d6d89b9](https://etherscan.io/address/0xc8b759860149542a98a3eb57c14aadf59d6d89b9) (ETH)
+* [0x6874c552d3fd1879e3007d44ef54c8f940e84760](https://etherscan.io/address/0x6874c552d3fd1879e3007d44ef54c8f940e84760) (ETH)
+
+And here is where the majority of the funds are currently stored:
+
+* [0x9007a0421145b06a0345d55a8c0f0327f62a2224](https://etherscan.io/address/0x9007a0421145b06a0345d55a8c0f0327f62a2224) (tokens)
+* [0xaa923cd02364bb8a4c3d6f894178d2e12231655c](https://etherscan.io/address/0xaa923cd02364bb8a4c3d6f894178d2e12231655c) (ETH)
+
 
 ### Market value of stolen coins
 
