@@ -2,6 +2,10 @@
 
 Data from our [investigation into the Cryptopia exchange hack](https://elementus.io/blog/cryptopia-hack-transparency/)
 
+
+*Update (29-Jan-2019): Transactions from the [second Cryptopia attack](https://elementus.io/blog/cryptopia-hacker-strikes-again-15-days-later/) are in [cryptopia-losses-2.csv](https://github.com/elementus-io/cryptopia-hack/blob/master/cryptopia-losses-2.csv).*
+
+
 ### Transactions from Cryptopia to the hackers' wallets
 
 The full list of unauthorized transactions from Cryptopia to the hackers' wallets are given in [cryptopia-losses.csv](https://github.com/elementus-io/cryptopia-hack/blob/master/cryptopia-losses.csv).
