@@ -22,6 +22,13 @@ And here is where the majority of the funds are currently stored:
 * [0xaa923cd02364bb8a4c3d6f894178d2e12231655c](https://etherscan.io/address/0xaa923cd02364bb8a4c3d6f894178d2e12231655c) (ETH)
 
 
+### Liquidated funds by exchange
+
+![Liquidated tokens by crypto exchange](https://github.com/elementus-io/cryptopia-hack/blob/master/cryptopia-exchanges-2.png)
+
+*Market value of stolen tokens liquidated on exchanges*
+
+
 ### Market value of stolen coins
 
 This table shows the full breakout of the stolen funds in the Cryptopia exchange hack. Market prices are as of 19-Jan-2019.
